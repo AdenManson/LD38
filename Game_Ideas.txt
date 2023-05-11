@@ -1,0 +1,11 @@
+Ludum Dare 38: A Small World
+
+- A tiny planet of which must be made sustainable by carefully planning what to plant and what species to choose to thrive. This will be a planet of which the player can walk all the way round.
+
+- A shrinking world of which the player must fix. Every time the player dies the world shrinks? The size of the world will be determined by the progression of the player. e.g. A set of tasks will allow the player to expand the world and access new resources. Instead of controlling a single character, the player will create a tribe of sorts (workers, farmers, etc.).   --- Winning Choice ---
+
+- Eternal Terrarium idea? Growing a world inside a jar. By adding different species to the jar, the outcome will be different. The aim of the game would be to complete tasks each time you play. These tasks could be:
+	. Get 5 species of worms to thrive
+	. Start a colony of ants
+	.  Grow a plant to the top of the world
+Completing a set of tasks would allow the player to pick a larger jar next time?
